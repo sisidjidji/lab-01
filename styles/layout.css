@@ -5,7 +5,10 @@
     background-color: #1E90FF;
     border: solid 1px;
   }
-  
+p{
+position: relative;
+top:50%;
+}
   aside{
     height:150px;
     width:480px; 
