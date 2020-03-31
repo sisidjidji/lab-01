@@ -1,0 +1,75 @@
+ 
+  header{ 
+    height: 75px;
+    width: 480px;
+    background-color: #1E90FF;
+    border: solid 1px;
+  }
+  
+  aside{
+    height:150px;
+    width:480px; 
+    background-color: #20B2AA;
+    border: solid 1px;
+    float: left;
+  }
+
+ 
+   .cd{
+    height: 125px;
+    width:480px;
+    border: 1px solid;
+    float: left;
+    background-color:lightblue;
+  }
+  .efgh{
+    height: 250px;
+    width: 240px;
+    border: 1px solid;
+    float: left;
+    background-color:#008B8B;
+
+  }
+  .i{
+
+    height:80px;
+    width: 480px;
+    float: left;
+    background-color: #6495ED;
+    border: 1px solid;
+    
+  }
+
+
+ 
+  @media (min-width:768px) {
+   body,html {
+      width: 960px;
+    }
+
+    header{
+      height: 100px;
+      width: 960px; 
+    }
+
+    aside{ 
+      height: 600px;
+      width: 200px;
+    }
+   
+     .cd{
+      height: 200px;
+      width: 380px;
+    }
+    .efgh{
+      height: 250px;
+    width: 190px;
+    }
+    .i{
+      height: 150px;
+      width: 760px;
+    }
+
+  } 
+    
+      
