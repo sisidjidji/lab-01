@@ -1,12 +1,10 @@
-body, html {
+ body {
     margin:0 auto;
     padding:0;
-    width:480px;
     margin-top: 20px;
- 
-
+   width: 100vw;
   }
   *{
     box-sizing: border-box;
     text-align: center;
-  }
+  } 
